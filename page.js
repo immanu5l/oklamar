@@ -1,7 +1,0 @@
----
-layout: default
-title: Home
----
-
-
-   <p>Text can be <strong>bold</strong>, <em>italic</em>, or <del>strikethrough</del>.</p>
